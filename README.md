@@ -1,3 +1,8 @@
+This Python based project was created to replicate the flash game of the same name. It was a group project, however the group members only ever worked on the button hitboxes on the main menu.
+This was written in my junior year of high school as a part of my Computer Science Principles class.
+
+---
+
 # Bloxorz
 Bloxorz is a 3D puzzle game that was published on Miniclip in 2007. The objective of the game is to get the block to fall into a square hole that is at the end of each stage, there are 33 stages to complete. The player will play as an block and will use the arrow keys to complete the objective of the game. The game we are creating is a 2D version of the original game, completing a total of 6 levels with your most amount of skill being used.
 
